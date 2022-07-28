@@ -1,5 +1,5 @@
 {
-  "name": "docker-frontend-backend-db",
+  "name": "docker-frontend",
   "version": "1.0.0",
   "description": "A tiny web app",
   "main": "index.js",
